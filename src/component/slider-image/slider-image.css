@@ -1,0 +1,11 @@
+.image-caption {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.75);
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    width: 40%;
+    min-width: 200px;
+    bottom: 50px;
+    right: 50px;
+}
